@@ -6,7 +6,8 @@ This **Graph Visualizer** is a Python application that allows users to create, v
 
 The **Graph** class provides a comprehensive set of methods to manage graph data and perform various algorithms. Here are some of the key features:
 
-![Graph Image](images/Graph.png)
+![Graph Image](GraphVisualizer/GraphVisualizer/images/Graph.png)
+
 
 #### Graph Structure
 - **Nodes**: Nodes are stored in a set, ensuring each node is unique.
